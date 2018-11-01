@@ -1,0 +1,150 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c914b718-ee80-4367-8ea3-95b50b7298be" name="uspehspecteh.ru" url="http://uspehspecteh.ru">
+        <fileTransfer host="uspehspecteh.ru" port="22" rootFolder="/var/www/uspehspecteh/data/www/uspehspecteh.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="459c8936-ec73-4021-9c1c-f7f2cc1adef9" name="merq@zelo" url="http://zelo.sijeko.net/merq/">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6aa9f0d7-7e6a-413c-9f1f-e44b0e324eea" name="hglens@zelo" url="http://zelo.sijeko.net/hglens/">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4d377a47-6b29-4b94-ad7e-30b5366fcfb8" name="estetik-belgorod.ru" url="http://estetik-belgorod.ru">
+        <fileTransfer host="estetik-belgorod.ru" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="78620bac-26ab-4587-b150-15d7aa99e58c" name="nzmir.ru" url="http://nzmir.ru/">
+        <fileTransfer host="nzmir.ru" port="22" rootFolder="/var/www/nzmir/data/www/nzmir.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a927ab62-234b-4be9-b64f-cdc32895a459" name="реконстрой.рф" url="http://рекострой.рф">
+        <fileTransfer host="zelo.sijeko.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a55e5ccc-4a59-4ca0-88f9-82723dffe17c" name="scrimy@dobro" url="http://scrimy.com">
+        <fileTransfer host="dobro.sijeko.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="045d13ff-83b8-40b1-9538-c918e01977f2" name="sishot@zelo" url="http://zelo.sijeko.net">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/project/sishot.ru/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9e09344f-96d6-411e-a1b9-a67760a7622a" name="savochkin@zelo" url="http://zelo.sijeko.net/savochkin/">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/project/savochkin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e044443-1624-43d4-b71f-03886c6272c3" name="fornoalegna.ru" url="http://fornoalegna.ru/">
+        <fileTransfer host="fornoalegna.ru" port="22" rootFolder="/web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6be872d5-04f9-4224-861d-9694d7dd3894" name="fonar.tv" url="http://fonar.tv">
+        <fileTransfer host="fonar.tv" port="22" rootFolder="/home/fonartv/fonar.tv" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="17679180-d862-4428-b4c4-09a469ee865e" name="twistnik@zelo" url="https://twistnik.ru">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/project/twistnik.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b05efb9-7d5c-444a-b2a1-9792d7a688e2" name="boardbot@zelo" url="http://zelo.sijeko.net/boardbot">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/project/boardbot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ea43f184-be1f-4c60-a518-df6f5f72b8df" name="intebot@zelo" url="http://zelo.sijeko.net">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/site/sijeko.ru/web/temp/intebot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b6bfad85-05c2-427b-9277-0ac91e4419de" name="dnevnik@zelo" url="http://dnevnik.zelo.sijeko.net/randname/">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/home/dnevnik/srv/dnevnik" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9a791096-d405-40b2-8b8f-f9ffd343da93" name="golos.ikra.city" url="http://golos.ikra.city">
+        <fileTransfer host="golos.ikra.city" port="22" rootFolder="/home/ikra/golos.ikra.city" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f88fffcf-a3ef-41b6-a1da-933960f62fd8" name="slite@zelo" url="https://zelo.sijeko.net/slite">
+        <fileTransfer host="zelo.sijeko.net" port="22" rootFolder="/srv/project/slite" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3b209bea-9ec4-4dfa-aeb9-cf3d4d5597dc" name="gdepokemongo.ru" url="https://gdepokemongo.ru">
+        <fileTransfer host="gdepokemongo.ru" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
