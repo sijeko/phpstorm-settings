@@ -1,6 +1,6 @@
 <application>
   <component name="HgGlobalSettings">
-    <option name="myHgExecutable" value="/usr/bin/hg" />
+    <option name="myHgExecutable" value="hg" />
     <option name="myRememberedUserNames">
       <map>
         <entry key="bitbucket.org/sergKs/cms" value="maximal" />
