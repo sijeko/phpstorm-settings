@@ -14,6 +14,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
     </extensionMap>
