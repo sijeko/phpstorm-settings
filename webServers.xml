@@ -81,8 +81,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="6be872d5-04f9-4224-861d-9694d7dd3894" name="fonar.tv" url="http://fonar.tv">
-        <fileTransfer host="fonar.tv" port="22" rootFolder="/home/fonartv/fonar.tv" accessType="SFTP">
+      <webServer id="6be872d5-04f9-4224-861d-9694d7dd3894" name="fonar.tv" url="https://fonar.tv">
+        <fileTransfer host="dev.fonar.tv" port="22" rootFolder="/home/fonartv/fonar.tv" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
