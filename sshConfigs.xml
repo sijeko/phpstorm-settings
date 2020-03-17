@@ -18,6 +18,7 @@
       <sshConfig authType="PASSWORD" host="golos.ikra.city" id="cdbb7d72-4ee9-4a94-b618-fd21a581fff7" port="22" />
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0e7ded1c-878c-40f9-a445-e0be8b789f7d" port="22" />
       <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="d6ea0bf5-b616-4e0e-a629-0c751f16be1f" port="22" />
+      <sshConfig authType="PASSWORD" host="vedi.sijeko.net" id="293d50e6-226d-4749-8cea-21613cb1f2bd" port="22" username="maximal" />
     </configs>
   </component>
 </application>
