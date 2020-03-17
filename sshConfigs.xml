@@ -1,0 +1,23 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="uspehspecteh.ru" id="19d4d7fe-6638-4c03-be99-66594715fed1" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="53d35ac9-b958-446f-b70f-02943ec5a6fd" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ed5f58c8-0263-4859-902e-25d07b273d99" port="22" />
+      <sshConfig authType="PASSWORD" host="nzmir.ru" id="f10242e0-1014-4b31-8b72-b70060f1badd" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="93bfb592-c26c-40ed-880a-7b93404032f1" port="22" />
+      <sshConfig authType="PASSWORD" host="dobro.sijeko.net" id="7bf6bd51-e5a9-4544-a454-f415fe84df0a" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="2cbc539a-1a35-4855-952d-7ccd3fabbc59" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ec618a97-8032-4f82-8410-0be7c58c0065" port="22" />
+      <sshConfig authType="PASSWORD" host="fornoalegna.ru" id="203c032d-a7b9-448b-9db7-fb7013849d4b" port="22" />
+      <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="9e1ad44c-974b-469c-aea9-fb10eb29e7a4" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="1dccdb3c-e229-4a91-9d44-1081b1959a3d" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="651dd618-218f-49ce-8edb-d5afd7a6f4fd" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="365d16bf-0987-4036-9d8b-83b43ca5127d" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="87f257eb-fcef-4d22-a014-dd28c70e5ed1" port="22" />
+      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="cdbb7d72-4ee9-4a94-b618-fd21a581fff7" port="22" />
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0e7ded1c-878c-40f9-a445-e0be8b789f7d" port="22" />
+      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="d6ea0bf5-b616-4e0e-a629-0c751f16be1f" port="22" />
+    </configs>
+  </component>
+</application>
