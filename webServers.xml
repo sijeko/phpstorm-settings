@@ -2,21 +2,21 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c914b718-ee80-4367-8ea3-95b50b7298be" name="uspehspecteh.ru" url="http://uspehspecteh.ru">
-        <fileTransfer rootFolder="/var/www/uspehspecteh/data/www/uspehspecteh.ru" accessType="SFTP" sshConfigId="61ffb1f9-f8bb-4510-9c85-e5a980b9287c" sshConfig="uspehspecteh.ru">
+        <fileTransfer rootFolder="/var/www/uspehspecteh/data/www/uspehspecteh.ru" accessType="SFTP" host="uspehspecteh.ru" port="22" sshConfigId="0790ebe8-45d0-44ee-9f97-aaebf878c12d" sshConfig="uspehspecteh.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="459c8936-ec73-4021-9c1c-f7f2cc1adef9" name="merq@zelo" url="http://zelo.sijeko.net/merq/">
-        <fileTransfer rootFolder="/app" accessType="SFTP" sshConfigId="c7dc5900-595c-465a-9f17-a812c04e1987" sshConfig="merq@zelo">
+        <fileTransfer rootFolder="/app" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="0eca90b7-de12-405e-8313-86699edb751c" sshConfig="merq@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="6aa9f0d7-7e6a-413c-9f1f-e44b0e324eea" name="hglens@zelo" url="http://zelo.sijeko.net/hglens/">
-        <fileTransfer rootFolder="/app" accessType="SFTP" sshConfigId="3355db77-5b8d-4494-8f80-1a1f6a74531c" sshConfig="hglens@zelo">
+        <fileTransfer rootFolder="/app" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="0c4aeede-2e8f-4c98-8cd5-567f98357e46" sshConfig="hglens@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -29,99 +29,92 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="78620bac-26ab-4587-b150-15d7aa99e58c" name="nzmir.ru" url="http://nzmir.ru/">
-        <fileTransfer rootFolder="/var/www/nzmir/data/www/nzmir.ru" accessType="SFTP" sshConfigId="b9c36463-522d-4a88-8d4f-ad59dd0dd413" sshConfig="nzmir.ru">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="a927ab62-234b-4be9-b64f-cdc32895a459" name="реконстрой.рф" url="http://рекострой.рф">
-        <fileTransfer accessType="SFTP" sshConfigId="3bfdfca0-44e4-4635-8f6f-605db4670967" sshConfig="реконстрой.рф">
+        <fileTransfer accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="0c23855d-8117-4092-afa2-883fca3fbf82" sshConfig="реконстрой.рф">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="a55e5ccc-4a59-4ca0-88f9-82723dffe17c" name="scrimy@dobro" url="http://scrimy.com">
-        <fileTransfer accessType="SFTP" sshConfigId="a77d1e05-6b15-4dba-9a0f-fc2c8f40a1fa" sshConfig="scrimy@dobro">
+        <fileTransfer accessType="SFTP" host="dobro.sijeko.net" port="22" sshConfigId="176f7081-4ca0-4d91-a392-3dac8a04fa06" sshConfig="scrimy@dobro">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="045d13ff-83b8-40b1-9538-c918e01977f2" name="sishot@zelo" url="http://zelo.sijeko.net">
-        <fileTransfer rootFolder="/srv/project/sishot.ru/app" accessType="SFTP" sshConfigId="215835fb-44bf-46d0-a510-2fca04b4ee37" sshConfig="sishot@zelo">
+        <fileTransfer rootFolder="/srv/project/sishot.ru/app" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="b784fbe0-7369-4773-b4b3-30ec7ae40da7" sshConfig="sishot@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9e09344f-96d6-411e-a1b9-a67760a7622a" name="savochkin@zelo" url="http://zelo.sijeko.net/savochkin/">
-        <fileTransfer rootFolder="/srv/project/savochkin" accessType="SFTP" sshConfigId="c2b85fc9-f9b6-45f3-a7d4-255c09c0ba75" sshConfig="savochkin@zelo">
+        <fileTransfer rootFolder="/srv/project/savochkin" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="3401f7e4-ffba-477a-aa07-9ae931b10aab" sshConfig="savochkin@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2e044443-1624-43d4-b71f-03886c6272c3" name="fornoalegna.ru" url="http://fornoalegna.ru/">
-        <fileTransfer rootFolder="/web" accessType="SFTP" sshConfigId="f87535b4-c9a2-4808-a312-633ec0217712" sshConfig="fornoalegna.ru">
+        <fileTransfer rootFolder="/web" accessType="SFTP" host="fornoalegna.ru" port="22" sshConfigId="75a865e6-5b99-471f-b5e2-14a5fde4a042" sshConfig="fornoalegna.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="6be872d5-04f9-4224-861d-9694d7dd3894" name="fonar.tv" url="https://fonar.tv">
-        <fileTransfer rootFolder="/home/fonartv/fonar.tv" accessType="SFTP" sshConfigId="9e7bc644-5b78-405b-a341-0e12d99c450e" sshConfig="fonar.tv">
+        <fileTransfer rootFolder="/home/fonartv/fonar.tv" accessType="SFTP" host="dev.fonar.tv" port="22" sshConfigId="5fe6d6ee-b3d6-43cf-b498-07c8e6419b63" sshConfig="fonar.tv">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="17679180-d862-4428-b4c4-09a469ee865e" name="twistnik@zelo" url="https://twistnik.ru">
-        <fileTransfer rootFolder="/srv/project/twistnik.com" accessType="SFTP" sshConfigId="4f8e6b1e-19df-445c-bd48-28c8aaa8b3ec" sshConfig="twistnik@zelo">
+        <fileTransfer rootFolder="/srv/project/twistnik.com" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="b6df45fe-19b0-448d-83fa-0d80f10f8c73" sshConfig="twistnik@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="1b05efb9-7d5c-444a-b2a1-9792d7a688e2" name="boardbot@zelo" url="http://zelo.sijeko.net/boardbot">
-        <fileTransfer rootFolder="/srv/project/boardbot" accessType="SFTP" sshConfigId="17562ed5-9ebc-43f0-8f4b-e174ff45bf59" sshConfig="boardbot@zelo">
+        <fileTransfer rootFolder="/srv/project/boardbot" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="362cd094-1964-4745-9f51-1a45baf021dd" sshConfig="boardbot@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="ea43f184-be1f-4c60-a518-df6f5f72b8df" name="intebot@zelo" url="http://zelo.sijeko.net">
-        <fileTransfer rootFolder="/srv/site/sijeko.ru/web/temp/intebot" accessType="SFTP" sshConfigId="66422b06-52d7-48ba-9ac3-c8efb8b9d9fd" sshConfig="intebot@zelo">
+        <fileTransfer rootFolder="/srv/site/sijeko.ru/web/temp/intebot" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="2dc671d4-4d0a-40d4-b278-2ae80810fe51" sshConfig="intebot@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="b6bfad85-05c2-427b-9277-0ac91e4419de" name="dnevnik@zelo" url="http://dnevnik.zelo.sijeko.net/randname/">
-        <fileTransfer rootFolder="/home/dnevnik/srv/dnevnik" accessType="SFTP" sshConfigId="ede0ae5f-1159-49f9-9a28-a869fe25f2cc" sshConfig="dnevnik@zelo">
+        <fileTransfer rootFolder="/home/dnevnik/srv/dnevnik" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="cf0bc35b-5dcd-44e9-b6ca-f9579dcae912" sshConfig="dnevnik@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9a791096-d405-40b2-8b8f-f9ffd343da93" name="golos.ikra.city" url="http://golos.ikra.city">
-        <fileTransfer rootFolder="/home/ikra/golos.ikra.city" accessType="SFTP" sshConfigId="d0c6914b-ced3-4693-8ea2-869c958e8d3c" sshConfig="golos.ikra.city">
+        <fileTransfer rootFolder="/home/ikra/golos.ikra.city" accessType="SFTP" host="golos.ikra.city" port="22" sshConfigId="e6a3dec0-1c0e-4008-8984-7f07ba3cbb99" sshConfig="golos.ikra.city">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="f88fffcf-a3ef-41b6-a1da-933960f62fd8" name="slite@zelo" url="https://zelo.sijeko.net/slite">
-        <fileTransfer rootFolder="/srv/project/slite" accessType="SFTP" sshConfigId="64afc9f3-ba63-42c5-8ed9-66a07165611b" sshConfig="slite@zelo">
+        <fileTransfer rootFolder="/srv/project/slite" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="6c1439d5-19cf-42c4-84f1-88556e86c59e" sshConfig="slite@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="3b209bea-9ec4-4dfa-aeb9-cf3d4d5597dc" name="gdepokemongo.ru" url="https://gdepokemongo.ru">
-        <fileTransfer accessType="SFTP" sshConfigId="440c3158-6f0b-43a6-b770-d5ade2a88355" sshConfig="gdepokemongo.ru">
+        <fileTransfer accessType="SFTP" host="gdepokemongo.ru" port="22" sshConfigId="2f37cd67-413d-4c7f-a211-784c55185ace" sshConfig="gdepokemongo.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
