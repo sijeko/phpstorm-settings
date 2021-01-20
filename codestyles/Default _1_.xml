@@ -5,6 +5,7 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="108" />
   <option name="SOFT_MARGINS" value="80,108,120,150" />
   <DB2CodeStyleSettings version="5">
     <option name="USE_GENERAL_STYLE" value="false" />
