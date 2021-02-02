@@ -1,0 +1,18 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="bitbucket.org/sergKs/cms" value="maximal" />
+        <entry key="repo.dev.sijeko.net/hglens/" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/dnevnik" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/fonartv" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/golos" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/gpt" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/hglens/" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/png-frontend" value="maximal" />
+        <entry key="zelo.sijeko.net:10002/score" value="maximal" />
+      </map>
+    </option>
+  </component>
+</application>

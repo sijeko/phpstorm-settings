@@ -1,0 +1,196 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="BladeInjectionConfiguration" escapedTextEnd="!!}" escapedTextStart="{!!" />
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="EslintConfiguration">
+        <custom-configuration-file used="true" path="$USER_HOME$/project/codestyle/eslint/eslintrc.js" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="Eslint" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+            <option name="CODING_STANDARD" value="Custom" />
+            <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/project/codestyle/php-code-sniffer/Sijeko" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="JSHintConfiguration" version="2.9.4" use-config-file="true" use-custom-config-file="true" custom-config-file-path="$USER_HOME$/project/codestyle/jshint/jshint-options.js">
+        <option asi="false" />
+        <option bitwise="true" />
+        <option boss="false" />
+        <option browser="true" />
+        <option browserify="false" />
+        <option camelcase="false" />
+        <option couch="false" />
+        <option curly="true" />
+        <option debug="false" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option elision="false" />
+        <option enforceall="false" />
+        <option eqeqeq="true" />
+        <option eqnull="false" />
+        <option es3="false" />
+        <option es5="false" />
+        <option esnext="false" />
+        <option evil="false" />
+        <option expr="false" />
+        <option forin="true" />
+        <option freeze="false" />
+        <option funcscope="false" />
+        <option futurehostile="false" />
+        <option gcl="false" />
+        <option globalstrict="false" />
+        <option immed="false" />
+        <option iterator="false" />
+        <option jasmine="false" />
+        <option jquery="false" />
+        <option lastsemic="false" />
+        <option latedef="false" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option maxerr="50" />
+        <option mocha="false" />
+        <option module="false" />
+        <option mootools="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option newcap="false" />
+        <option noarg="true" />
+        <option nocomma="false" />
+        <option node="false" />
+        <option noempty="true" />
+        <option nomen="false" />
+        <option nonbsp="false" />
+        <option nonew="true" />
+        <option nonstandard="false" />
+        <option notypeof="false" />
+        <option noyield="false" />
+        <option onevar="false" />
+        <option passfail="false" />
+        <option phantom="false" />
+        <option plusplus="false" />
+        <option proto="false" />
+        <option prototypejs="false" />
+        <option qunit="false" />
+        <option quotmark="false" />
+        <option rhino="false" />
+        <option scripturl="false" />
+        <option shadow="false" />
+        <option shelljs="false" />
+        <option singleGroups="false" />
+        <option smarttabs="false" />
+        <option strict="true" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option trailing="false" />
+        <option typed="false" />
+        <option undef="true" />
+        <option unused="false" />
+        <option validthis="false" />
+        <option varstmt="false" />
+        <option white="false" />
+        <option withstmt="false" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
+      </component>
+      <component name="JscsConfiguration" use-custom-config-file="true" custom-config-file-path="$USER_HOME$/project/codestyle/jscs/jscs-options.js" />
+      <component name="MessDetector">
+        <phpmd_settings>
+          <MessDetectorConfiguration tool_path="$USER_HOME$/project/codestyle/php-mess-detector/vendor/bin/phpmd" />
+        </phpmd_settings>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpCodeSniffer">
+        <phpcs_settings>
+          <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/project/codestyle/php-code-sniffer/vendor/bin/phpcs" />
+        </phpcs_settings>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Less</id>
+              </State>
+              <State>
+                <id>Markdown</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Less</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="js.eslint.eslintPackage" value="" />
+        <property name="js.eslint.nodeInterpreter" value="project" />
+        <property name="last_opened_file_path" value="$USER_HOME$/project/codestyle/eslint/eslintrc.js" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.jscs" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.selected.package.eslint" value="/usr/lib/node_modules/eslint" />
+        <property name="node.js.selected.package.jscs" value="" />
+        <property name="node.js.selected.package.standard" value="/usr/lib/node_modules/eslint" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+      </component>
+      <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" notifyRemoteChanges="true" />
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="Yii2 Support">
+        <option name="migrateCommands">
+          <list>
+            <MigrateCommand>
+              <option name="isDefault" value="true" />
+              <option name="command" value="migrate" />
+              <option name="migrationTable" value="{{%migration}}" />
+              <option name="db" value="db" />
+              <option name="migrationPath">
+                <list>
+                  <option value="@app/migrations" />
+                </list>
+              </option>
+            </MigrateCommand>
+          </list>
+        </option>
+        <option name="aliasMap">
+          <map>
+            <entry key="@webroot" value="@app/web" />
+            <entry key="@vendor" value="vendor" />
+            <entry key="@runtime" value="@app/runtime" />
+            <entry key="@yii2support-console-command-app-root" value="" />
+          </map>
+        </option>
+      </component>
+    </defaultProject>
+  </component>
+</application>
