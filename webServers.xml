@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c914b718-ee80-4367-8ea3-95b50b7298be" name="uspehspecteh.ru" url="http://uspehspecteh.ru">
-        <fileTransfer rootFolder="/var/www/uspehspecteh/data/www/uspehspecteh.ru" accessType="SFTP" host="uspehspecteh.ru" port="22" sshConfigId="0790ebe8-45d0-44ee-9f97-aaebf878c12d" sshConfig="uspehspecteh.ru">
+        <fileTransfer rootFolder="/var/www/uspehspecteh/data/www/uspehspecteh.ru" accessType="SFTP" sshConfigId="0790ebe8-45d0-44ee-9f97-aaebf878c12d" sshConfig="uspehspecteh.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a927ab62-234b-4be9-b64f-cdc32895a459" name="реконстрой.рф" url="http://рекострой.рф">
-        <fileTransfer accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="0c23855d-8117-4092-afa2-883fca3fbf82" sshConfig="реконстрой.рф">
+        <fileTransfer accessType="SFTP" sshConfigId="0c23855d-8117-4092-afa2-883fca3fbf82" sshConfig="реконстрой.рф">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
