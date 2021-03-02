@@ -1,42 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="uspehspecteh.ru" id="19d4d7fe-6638-4c03-be99-66594715fed1" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="53d35ac9-b958-446f-b70f-02943ec5a6fd" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ed5f58c8-0263-4859-902e-25d07b273d99" port="22" />
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="f10242e0-1014-4b31-8b72-b70060f1badd" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="93bfb592-c26c-40ed-880a-7b93404032f1" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="2cbc539a-1a35-4855-952d-7ccd3fabbc59" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ec618a97-8032-4f82-8410-0be7c58c0065" port="22" />
-      <sshConfig authType="PASSWORD" host="fornoalegna.ru" id="203c032d-a7b9-448b-9db7-fb7013849d4b" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="1dccdb3c-e229-4a91-9d44-1081b1959a3d" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="651dd618-218f-49ce-8edb-d5afd7a6f4fd" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="365d16bf-0987-4036-9d8b-83b43ca5127d" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="87f257eb-fcef-4d22-a014-dd28c70e5ed1" port="22" />
-      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="cdbb7d72-4ee9-4a94-b618-fd21a581fff7" port="22" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0e7ded1c-878c-40f9-a445-e0be8b789f7d" port="22" />
-      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="d6ea0bf5-b616-4e0e-a629-0c751f16be1f" port="22" />
       <sshConfig authType="PASSWORD" host="vedi.sijeko.net" id="293d50e6-226d-4749-8cea-21613cb1f2bd" port="22" username="maximal" />
-      <sshConfig authType="PASSWORD" host="uspehspecteh.ru" id="2521c728-5abd-44cb-b93e-10edc41c3c4b" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="7e014534-4404-4457-b20f-a25217a67e12" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="c3a4a277-0f47-4c26-864a-17cb771b65e4" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="f181785e-414d-43f9-befc-c9586eecdb6f" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="caa037e8-4a66-432f-9c80-dce5a8f8b620" port="22" nameFormat="DESCRIPTIVE" />
       <sshConfig authType="PASSWORD" host="dobro.sijeko.net" id="8340a55e-ca75-4aa3-842f-07f38715b925" port="22" nameFormat="DESCRIPTIVE" username="maximal" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="7520052a-df7b-4613-aa96-33a64a450276" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="e5514238-b554-49e9-acd2-0050aaf837b9" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="89fddedd-99e0-4e28-9f3e-bb7d886b1417" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="dd0f8cef-0b46-43dc-a10f-9530be66ecd6" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="b1762d85-b91b-4927-958e-7cadeb5313ca" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="54a49960-db41-4182-91bc-451af54daac1" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="88c1e5d1-94b3-4caa-8dfc-3d1c436fd551" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="25f18937-b6a8-4429-8283-ebd435db0a2e" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="207c5d26-fc85-4d05-a2a5-f6c740282ff7" port="22" nameFormat="DESCRIPTIVE" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="0eca90b7-de12-405e-8313-86699edb751c" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="0c4aeede-2e8f-4c98-8cd5-567f98357e46" port="22" customName="hglens@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="hglens@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="nzmir.ru" id="1212dd8b-c415-49fa-b5a4-f43335fd596b" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
         <option name="customName" value="nzmir.ru" />
@@ -49,9 +17,6 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="3401f7e4-ffba-477a-aa07-9ae931b10aab" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
         <option name="customName" value="savochkin@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="fornoalegna.ru" id="75a865e6-5b99-471f-b5e2-14a5fde4a042" port="22" customName="fornoalegna.ru" nameFormat="CUSTOM">
-        <option name="customName" value="fornoalegna.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.fonar.tv" id="5fe6d6ee-b3d6-43cf-b498-07c8e6419b63" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
@@ -68,20 +33,11 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="cf0bc35b-5dcd-44e9-b6ca-f9579dcae912" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="dnevnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="golos.ikra.city" id="e6a3dec0-1c0e-4008-8984-7f07ba3cbb99" port="22" customName="golos.ikra.city" nameFormat="CUSTOM">
-        <option name="customName" value="golos.ikra.city" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="6c1439d5-19cf-42c4-84f1-88556e86c59e" port="22" customName="slite@zelo" nameFormat="CUSTOM">
         <option name="customName" value="slite@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="gdepokemongo.ru" id="2f37cd67-413d-4c7f-a211-784c55185ace" port="22" customName="gdepokemongo.ru" nameFormat="CUSTOM">
-        <option name="customName" value="gdepokemongo.ru" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="299925ca-694b-40ff-9742-92464f5ebae1" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="2aaafc8c-20fb-4d24-97b6-6c6d2ee01291" port="22" customName="hglens@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="hglens@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="nzmir.ru" id="b852e096-d3d6-49aa-ad08-13ecd12e058e" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
         <option name="customName" value="nzmir.ru" />
@@ -94,9 +50,6 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ca7591a5-8ac7-48e0-b056-0ba271ff82d1" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
         <option name="customName" value="savochkin@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="fornoalegna.ru" id="57d20422-6cd0-477c-b74d-9df1239a6f9b" port="22" customName="fornoalegna.ru" nameFormat="CUSTOM">
-        <option name="customName" value="fornoalegna.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="be4b4652-a757-4f8c-b533-9d2eaa3003d7" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
@@ -113,20 +66,11 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="60f11fd6-aec9-462e-970c-20de2b6ed920" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="dnevnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="5c260c53-c3f1-4538-93bf-487110e1db23" port="22" customName="golos.ikra.city" nameFormat="CUSTOM">
-        <option name="customName" value="golos.ikra.city" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="5390bcb6-d70f-4b90-9326-190bce75b7e6" port="22" customName="slite@zelo" nameFormat="CUSTOM">
         <option name="customName" value="slite@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="b1e97b3f-71df-47e7-9b6a-a0e95d7ff299" port="22" customName="gdepokemongo.ru" nameFormat="CUSTOM">
-        <option name="customName" value="gdepokemongo.ru" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="5cb7f0c2-ef20-4955-90a6-235ee7fbdf82" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="a9f2e527-d82a-49cd-9986-3964c714e922" port="22" customName="hglens@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="hglens@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="nzmir.ru" id="b807375e-e71e-4c64-93ad-2c6ab73a642c" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
         <option name="customName" value="nzmir.ru" />
@@ -140,9 +84,6 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="70e2266b-fc94-40cb-bc41-e2d164795fac" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
         <option name="customName" value="savochkin@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="fornoalegna.ru" id="34fe81be-8318-4d9d-96ab-10ab9e48daff" port="22" customName="fornoalegna.ru" nameFormat="CUSTOM">
-        <option name="customName" value="fornoalegna.ru" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="83d5135f-8d1f-45b5-9e4c-6859b688e2cc" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
       </sshConfig>
@@ -155,20 +96,11 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="f1ea81a6-1117-4d4a-8e30-93df5e51a711" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="dnevnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="7ea6f8d1-abc8-4027-b0c4-ea0abcac3e89" port="22" customName="golos.ikra.city" nameFormat="CUSTOM">
-        <option name="customName" value="golos.ikra.city" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="6c943f1b-6052-4159-8464-6f521947522c" port="22" customName="slite@zelo" nameFormat="CUSTOM">
         <option name="customName" value="slite@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="982450b1-e3aa-45e2-a789-3e48eebcd771" port="22" customName="gdepokemongo.ru" nameFormat="CUSTOM">
-        <option name="customName" value="gdepokemongo.ru" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="d4dde9f3-2bed-4cfc-9968-423da8d85ec4" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0fa6b57f-910f-4d19-899e-9747ef84c42b" port="22" customName="hglens@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="hglens@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="nzmir.ru" id="f215684c-0f1a-4f19-8b84-396224a568f9" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
         <option name="customName" value="nzmir.ru" />
@@ -181,9 +113,6 @@
       </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0dc0802f-88b5-43d6-baa6-b0a56c4dd155" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
         <option name="customName" value="savochkin@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="fornoalegna.ru" id="12ddec0f-1c35-44f9-ab7c-d8e17a6507b2" port="22" customName="fornoalegna.ru" nameFormat="CUSTOM">
-        <option name="customName" value="fornoalegna.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="524365c4-f9ca-43f5-a9eb-7a2b528467cf" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
@@ -200,14 +129,8 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="c9cae57b-0c32-4b44-9b56-2660404cb321" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="dnevnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="golos.ikra.city" id="d99ec514-ed24-49cb-a3d4-f97220129b6d" port="22" customName="golos.ikra.city" nameFormat="CUSTOM">
-        <option name="customName" value="golos.ikra.city" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="926ca3c0-4773-4fb4-a53d-7cfa8d91747b" port="22" customName="slite@zelo" nameFormat="CUSTOM">
         <option name="customName" value="slite@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="gdepokemongo.ru" id="857de723-cb2e-453e-9769-6f50f49c289d" port="22" customName="gdepokemongo.ru" nameFormat="CUSTOM">
-        <option name="customName" value="gdepokemongo.ru" />
       </sshConfig>
     </configs>
   </component>

@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="6aa9f0d7-7e6a-413c-9f1f-e44b0e324eea" name="hglens@zelo" url="http://zelo.sijeko.net/hglens/">
-        <fileTransfer rootFolder="/app" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="0c4aeede-2e8f-4c98-8cd5-567f98357e46" sshConfig="hglens@zelo">
+        <fileTransfer rootFolder="/app" accessType="SFTP" sshConfigId="0c4aeede-2e8f-4c98-8cd5-567f98357e46" sshConfig="hglens@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="2e044443-1624-43d4-b71f-03886c6272c3" name="fornoalegna.ru" url="http://fornoalegna.ru/">
-        <fileTransfer rootFolder="/web" accessType="SFTP" host="fornoalegna.ru" port="22" sshConfigId="75a865e6-5b99-471f-b5e2-14a5fde4a042" sshConfig="fornoalegna.ru">
+        <fileTransfer rootFolder="/web" accessType="SFTP" sshConfigId="75a865e6-5b99-471f-b5e2-14a5fde4a042" sshConfig="fornoalegna.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -100,7 +100,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9a791096-d405-40b2-8b8f-f9ffd343da93" name="golos.ikra.city" url="http://golos.ikra.city">
-        <fileTransfer rootFolder="/home/ikra/golos.ikra.city" accessType="SFTP" host="golos.ikra.city" port="22" sshConfigId="e6a3dec0-1c0e-4008-8984-7f07ba3cbb99" sshConfig="golos.ikra.city">
+        <fileTransfer rootFolder="/home/ikra/golos.ikra.city" accessType="SFTP" sshConfigId="e6a3dec0-1c0e-4008-8984-7f07ba3cbb99" sshConfig="golos.ikra.city">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -114,7 +114,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3b209bea-9ec4-4dfa-aeb9-cf3d4d5597dc" name="gdepokemongo.ru" url="https://gdepokemongo.ru">
-        <fileTransfer accessType="SFTP" host="gdepokemongo.ru" port="22" sshConfigId="2f37cd67-413d-4c7f-a211-784c55185ace" sshConfig="gdepokemongo.ru">
+        <fileTransfer accessType="SFTP" sshConfigId="2f37cd67-413d-4c7f-a211-784c55185ace" sshConfig="gdepokemongo.ru">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
