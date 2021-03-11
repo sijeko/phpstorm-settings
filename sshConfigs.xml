@@ -57,9 +57,6 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="cb259d04-0ed5-4d1b-8848-a454bbc236cc" port="22" customName="twistnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="twistnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="863d0682-4945-43db-abfd-ff1e9b38aa80" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="boardbot@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ff6e2213-d7af-4cc1-8001-569b99c213ee" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
       </sshConfig>
