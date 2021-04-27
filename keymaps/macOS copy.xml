@@ -9,7 +9,7 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="meta q" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="Uml.ShowDiff" />
 </keymap>
