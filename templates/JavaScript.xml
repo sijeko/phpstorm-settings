@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="ccl" value="console.log($END$);" description="console.log() statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cci" value="console.info($END$);" description="console.info() statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
