@@ -6,9 +6,6 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="0eca90b7-de12-405e-8313-86699edb751c" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="1212dd8b-c415-49fa-b5a4-f43335fd596b" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
-        <option name="customName" value="nzmir.ru" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dobro.sijeko.net" id="176f7081-4ca0-4d91-a392-3dac8a04fa06" port="22" customName="scrimy@dobro" nameFormat="CUSTOM">
         <option name="customName" value="scrimy@dobro" />
       </sshConfig>
@@ -30,17 +27,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="2dc671d4-4d0a-40d4-b278-2ae80810fe51" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="cf0bc35b-5dcd-44e9-b6ca-f9579dcae912" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="dnevnik@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="6c1439d5-19cf-42c4-84f1-88556e86c59e" port="22" customName="slite@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="slite@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="299925ca-694b-40ff-9742-92464f5ebae1" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="b852e096-d3d6-49aa-ad08-13ecd12e058e" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
-        <option name="customName" value="nzmir.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dobro.sijeko.net" id="67fcc9e3-b807-4be6-832a-8ce5c3426f35" port="22" customName="scrimy@dobro" nameFormat="CUSTOM">
         <option name="customName" value="scrimy@dobro" />
@@ -60,17 +48,8 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="ff6e2213-d7af-4cc1-8001-569b99c213ee" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="60f11fd6-aec9-462e-970c-20de2b6ed920" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="dnevnik@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="5390bcb6-d70f-4b90-9326-190bce75b7e6" port="22" customName="slite@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="slite@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="5cb7f0c2-ef20-4955-90a6-235ee7fbdf82" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="b807375e-e71e-4c64-93ad-2c6ab73a642c" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
-        <option name="customName" value="nzmir.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dobro.sijeko.net" id="12ff9a3c-5281-4b7b-afb0-a0bf09f59185" port="22" customName="scrimy@dobro" nameFormat="CUSTOM">
         <option name="customName" value="scrimy@dobro" />
@@ -90,17 +69,8 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="a37bd33e-e0b0-4b44-9193-287a00b5cffe" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="boardbot@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="f1ea81a6-1117-4d4a-8e30-93df5e51a711" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="dnevnik@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="6c943f1b-6052-4159-8464-6f521947522c" port="22" customName="slite@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="slite@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="d4dde9f3-2bed-4cfc-9968-423da8d85ec4" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="nzmir.ru" id="f215684c-0f1a-4f19-8b84-396224a568f9" port="22" customName="nzmir.ru" nameFormat="CUSTOM">
-        <option name="customName" value="nzmir.ru" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="dobro.sijeko.net" id="3c3093e0-2d76-47d9-9aa1-478c9dc9bbca" port="22" customName="scrimy@dobro" nameFormat="CUSTOM">
         <option name="customName" value="scrimy@dobro" />
@@ -114,20 +84,11 @@
       <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="524365c4-f9ca-43f5-a9eb-7a2b528467cf" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="b15569c9-4f51-49f7-8de6-e4ec18a3c8f2" port="22" customName="twistnik@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="twistnik@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="cc4ce8f9-05b5-4b46-b336-0f067c37d2ad" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="boardbot@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="89058c17-340b-40a7-8ab1-aa9441a2d80d" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="c9cae57b-0c32-4b44-9b56-2660404cb321" port="22" customName="dnevnik@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="dnevnik@zelo" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="926ca3c0-4773-4fb4-a53d-7cfa8d91747b" port="22" customName="slite@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="slite@zelo" />
       </sshConfig>
     </configs>
   </component>

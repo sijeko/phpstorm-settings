@@ -93,7 +93,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b6bfad85-05c2-427b-9277-0ac91e4419de" name="dnevnik@zelo" url="http://dnevnik.zelo.sijeko.net/randname/">
-        <fileTransfer rootFolder="/home/dnevnik/srv/dnevnik" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="cf0bc35b-5dcd-44e9-b6ca-f9579dcae912" sshConfig="dnevnik@zelo">
+        <fileTransfer rootFolder="/home/dnevnik/srv/dnevnik" accessType="SFTP" sshConfigId="cf0bc35b-5dcd-44e9-b6ca-f9579dcae912" sshConfig="dnevnik@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -107,7 +107,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="f88fffcf-a3ef-41b6-a1da-933960f62fd8" name="slite@zelo" url="https://zelo.sijeko.net/slite">
-        <fileTransfer rootFolder="/srv/project/slite" accessType="SFTP" host="zelo.sijeko.net" port="22" sshConfigId="6c1439d5-19cf-42c4-84f1-88556e86c59e" sshConfig="slite@zelo">
+        <fileTransfer rootFolder="/srv/project/slite" accessType="SFTP" sshConfigId="6c1439d5-19cf-42c4-84f1-88556e86c59e" sshConfig="slite@zelo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
