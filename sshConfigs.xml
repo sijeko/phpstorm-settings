@@ -84,7 +84,7 @@
       <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="524365c4-f9ca-43f5-a9eb-7a2b528467cf" port="22" customName="fonar.tv" nameFormat="CUSTOM">
         <option name="customName" value="fonar.tv" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="cc4ce8f9-05b5-4b46-b336-0f067c37d2ad" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="cc4ce8f9-05b5-4b46-b336-0f067c37d2ad" port="22" customName="boardbot@zelo" nameFormat="CUSTOM" useOpenSSHConfig="true">
         <option name="customName" value="boardbot@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="89058c17-340b-40a7-8ab1-aa9441a2d80d" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
