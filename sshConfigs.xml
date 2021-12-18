@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="vedi.sijeko.net" id="293d50e6-226d-4749-8cea-21613cb1f2bd" port="22" username="maximal" />
+      <sshConfig authType="PASSWORD" host="vedi.sijeko.net" id="293d50e6-226d-4749-8cea-21613cb1f2bd" port="22" username="maximal" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dobro.sijeko.net" id="8340a55e-ca75-4aa3-842f-07f38715b925" port="22" nameFormat="DESCRIPTIVE" username="maximal" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="0eca90b7-de12-405e-8313-86699edb751c" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
