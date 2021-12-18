@@ -8,6 +8,10 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="108" />
   <option name="SOFT_MARGINS" value="80,108,120,150" />
+  <CssCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <DB2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
@@ -38,6 +42,10 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
+  <LessCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+  </LessCodeStyleSettings>
   <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
@@ -68,6 +76,10 @@
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="KEYWORD_CASE" value="2" />
   </SQLiteCodeStyleSettings>
+  <ScssCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_QUOTES_ON_FORMAT" value="true" />
+  </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="6">
     <option name="KEYWORD_CASE" value="2" />
   </SqlCodeStyleSettings>
