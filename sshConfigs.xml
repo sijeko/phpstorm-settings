@@ -21,9 +21,6 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="b6df45fe-19b0-448d-83fa-0d80f10f8c73" port="22" customName="twistnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="twistnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="362cd094-1964-4745-9f51-1a45baf021dd" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="boardbot@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="2dc671d4-4d0a-40d4-b278-2ae80810fe51" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
       </sshConfig>
@@ -66,9 +63,6 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="022e8186-f2e8-4df4-812c-d65de90d0b35" port="22" customName="twistnik@zelo" nameFormat="CUSTOM">
         <option name="customName" value="twistnik@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="a37bd33e-e0b0-4b44-9193-287a00b5cffe" port="22" customName="boardbot@zelo" nameFormat="CUSTOM">
-        <option name="customName" value="boardbot@zelo" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="d4dde9f3-2bed-4cfc-9968-423da8d85ec4" port="22" customName="merq@zelo" nameFormat="CUSTOM">
         <option name="customName" value="merq@zelo" />
       </sshConfig>
@@ -81,11 +75,8 @@
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="0dc0802f-88b5-43d6-baa6-b0a56c4dd155" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
         <option name="customName" value="savochkin@zelo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="524365c4-f9ca-43f5-a9eb-7a2b528467cf" port="22" customName="fonar.tv" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" host="dev.fonar.tv" id="524365c4-f9ca-43f5-a9eb-7a2b528467cf" port="22" customName="fonar.tv" nameFormat="CUSTOM" useOpenSSHConfig="true">
         <option name="customName" value="fonar.tv" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="cc4ce8f9-05b5-4b46-b336-0f067c37d2ad" port="22" customName="boardbot@zelo" nameFormat="CUSTOM" useOpenSSHConfig="true">
-        <option name="customName" value="boardbot@zelo" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="89058c17-340b-40a7-8ab1-aa9441a2d80d" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
         <option name="customName" value="intebot@zelo" />
