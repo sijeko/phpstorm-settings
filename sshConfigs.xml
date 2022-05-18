@@ -1,0 +1,29 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="vedi.sijeko.net" id="293d50e6-226d-4749-8cea-21613cb1f2bd" port="22" username="maximal" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dobro.sijeko.net" id="8340a55e-ca75-4aa3-842f-07f38715b925" port="22" nameFormat="DESCRIPTIVE" username="maximal" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="0eca90b7-de12-405e-8313-86699edb751c" port="22" customName="merq@zelo" nameFormat="CUSTOM">
+        <option name="customName" value="merq@zelo" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dobro.sijeko.net" id="176f7081-4ca0-4d91-a392-3dac8a04fa06" port="22" customName="scrimy@dobro" nameFormat="CUSTOM">
+        <option name="customName" value="scrimy@dobro" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="b784fbe0-7369-4773-b4b3-30ec7ae40da7" port="22" customName="sishot@zelo" nameFormat="CUSTOM">
+        <option name="customName" value="sishot@zelo" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="3401f7e4-ffba-477a-aa07-9ae931b10aab" port="22" customName="savochkin@zelo" nameFormat="CUSTOM">
+        <option name="customName" value="savochkin@zelo" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.fonar.tv" id="5fe6d6ee-b3d6-43cf-b498-07c8e6419b63" port="22" customName="fonar.tv" nameFormat="CUSTOM">
+        <option name="customName" value="fonar.tv" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="zelo.sijeko.net" id="2dc671d4-4d0a-40d4-b278-2ae80810fe51" port="22" customName="intebot@zelo" nameFormat="CUSTOM">
+        <option name="customName" value="intebot@zelo" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="zelo.sijeko.net" id="022e8186-f2e8-4df4-812c-d65de90d0b35" port="22" customName="twistnik@zelo" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="twistnik@zelo" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

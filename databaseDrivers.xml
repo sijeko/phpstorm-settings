@@ -1,3 +1,22 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="201" />
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.2.1" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
+    </driver>
+    <driver id="mysql">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.44" />
+      <library>
+        <url>file://$USER_HOME$/apps/mysql-connector-java-5.1.22-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="oracle">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
+    </driver>
+  </component>
 </application>
