@@ -4,7 +4,6 @@
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
     </extensionMap>
   </component>
