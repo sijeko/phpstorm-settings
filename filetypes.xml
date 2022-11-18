@@ -3,8 +3,10 @@
     <extensionMap>
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
     </extensionMap>
   </component>
